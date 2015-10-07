@@ -1,6 +1,6 @@
 {
-	"name": "Spotify Web Player",
-	"description": "Spotify Web Player",
+	"name": "Spotify For Chrome",
+	"description": "Spotify For Chrome",
 	"version": "0.1",
 	"manifest_version": 2,
 	"app": {
